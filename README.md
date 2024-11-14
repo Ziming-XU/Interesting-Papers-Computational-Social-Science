@@ -8,9 +8,9 @@ This repository is contributed by Ziming Xu from University College London (UCL)
 
 
 ## Information Spreading
-1. **Cannot Predict Comment Volume of a News Article before (a few) Users Read It.**
-_Lihong He, Chen Shen, Arjun Mukherjee, Slobodan Vucetic, Eduard Dragut_
-   ICWSM 2021. [Link](https://ojs.aaai.org/index.php/ICWSM/article/view/18051)
+1. **Cannot Predict Comment Volume of a News Article before (a few) Users Read It.**  
+_Lihong He, Chen Shen, Arjun Mukherjee, Slobodan Vucetic, Eduard Dragut_  
+ICWSM 2021. [Link](https://ojs.aaai.org/index.php/ICWSM/article/view/18051)  
 
 
 
