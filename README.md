@@ -20,11 +20,11 @@ This repository is contributed by Ziming Xu from University College London (UCL)
 ## Social Network Analysis
 
 ## AI for Social Science
-1. **LLMs generate structurally realistic social networks but overestimate political homophily** (arXiv)  
+1. **LLMs generate structurally realistic social networks but overestimate political homophily** (arXiv 2024)  
 :bulb:**Highlight**:  
 :link: [Paper](https://arxiv.org/abs/2408.16629)  
 :busts_in_silhouette: Serina Chang, Alicja Chaszczewicz, Emma Wang, Maya Josifovska, Emma Pierson, Jure Leskovec (Stanford University)  
-2. **Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities** (arXiv)  
+2. **Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities** (arXiv 2024)  
 :bulb:**Highlight**:  
 :link: [Paper](https://arxiv.org/abs/2411.03252)  
 :busts_in_silhouette: Ryosuke Takata, Atsushi Masumori, Takashi Ikegami (The University of Tokyo)  
