@@ -28,5 +28,9 @@ This repository is contributed by Ziming Xu from University College London (UCL)
 :bulb:**Highlight**:  
 :link: [Paper](https://arxiv.org/abs/2411.03252)  
 :busts_in_silhouette: Ryosuke Takata, Atsushi Masumori, Takashi Ikegami (The University of Tokyo)  
+3. **Static network structure cannot stabilize cooperation among Large Language Model agents** (arXiv 2024)  
+:bulb:**Highlight**:  
+:link: [Paper](https://arxiv.org/abs/2411.10294)  
+:busts_in_silhouette: Jin Han, Balaraju Battu, Ivan Romić, Talal Rahwan, Petter Holme (Aalto University, Finland)    
 
 
