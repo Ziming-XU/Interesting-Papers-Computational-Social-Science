@@ -19,7 +19,7 @@ This repository is contributed by Ziming Xu from University College London (UCL)
 1. **Patterns of partisan toxicity and engagement reveal the common structure of online political communication across countries** (Nature Communications 2024)  
 :bulb:**Highlight**:      
 :link: [Paper](https://www.nature.com/articles/s41467-024-53868-0)  
-:busts_in_silhouette: Max Falkenberg, Fabiana Zollo, Walter Quattrociocchi, Jürgen Pfeffer & Andrea Baronchelli   
+:busts_in_silhouette: Max Falkenberg, Fabiana Zollo, Walter Quattrociocchi, Jürgen Pfeffer, Andrea Baronchelli   
 
 
 
