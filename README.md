@@ -37,6 +37,10 @@ This repository is contributed by Ziming Xu from University College London (UCL)
 3. **Static network structure cannot stabilize cooperation among Large Language Model agents** (arXiv 2024)  
 :bulb:**Highlight**:  
 :link: [Paper](https://arxiv.org/abs/2411.10294)  
-:busts_in_silhouette: Jin Han, Balaraju Battu, Ivan Romić, Talal Rahwan, **Petter Holme** (Aalto University, Finland)    
+:busts_in_silhouette: Jin Han, Balaraju Battu, Ivan Romić, Talal Rahwan, **Petter Holme** (Aalto University, Finland)   
+4. **Can Large Language Model Agents Simulate Human Trust Behavior?** (NIPS 2024)  
+:bulb:**Highlight**:  
+:link: [Paper](https://arxiv.org/abs/2402.04559)  
+:busts_in_silhouette: Chengxing Xie, Canyu Chen, Feiran Jia, Ziyu Ye, Shiyang Lai, Kai Shu, Jindong Gu, Adel Bibi, Ziniu Hu, David Jurgens, James Evans, Philip Torr, Bernard Ghanem, Guohao Li     
 
 
