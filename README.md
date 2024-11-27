@@ -41,6 +41,9 @@ This repository is contributed by Ziming Xu from University College London (UCL)
 4. **Can Large Language Model Agents Simulate Human Trust Behavior?** (NIPS 2024)  
 :bulb:**Highlight**:  
 :link: [Paper](https://arxiv.org/abs/2402.04559)  
-:busts_in_silhouette: Chengxing Xie, Canyu Chen, Feiran Jia, Ziyu Ye, Shiyang Lai, Kai Shu, Jindong Gu, Adel Bibi, Ziniu Hu, David Jurgens, James Evans, Philip Torr, Bernard Ghanem, Guohao Li     
-
+:busts_in_silhouette: Chengxing Xie, Canyu Chen, Feiran Jia, Ziyu Ye, Shiyang Lai, Kai Shu, Jindong Gu, Adel Bibi, Ziniu Hu, David Jurgens, James Evans, Philip Torr, Bernard Ghanem, Guohao Li   
+5. **AI can help humans find common ground in democratic deliberation** (Science 2024)  
+:bulb:**Highlight**:  
+:link: [Paper](https://www.science.org/doi/10.1126/science.adq2852)  
+:busts_in_silhouette: Michael Henry Tessler*†, Michiel A. Bakker*†, Daniel Jarrett, Hannah Sheahan, Martin J. Chadwick,Raphael Koster, Georgina Evans, Lucy Campbell-Gillingham, Tantum Collins, David C. Parkes, Matthew Botvinick*, Christopher Summerfield (DeepMind)   
 
